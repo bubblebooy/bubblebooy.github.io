@@ -3,19 +3,27 @@ layout: page
 title: About
 ---
 
+<!--
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  This is my blog for Machine Learning at Metis
 </p>
+-->
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Grew up in Santa Barbara, California
 
-There are currently two themes built on Poole:
+I went to University of California Santa Barbara where I got a Bachelor's degree in Physics
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I am in Chicago while my SO is getting a Material Science PHD at North Western
+
+While in Chicago I have been teaching myself Web Development, Unity and 3D Modeling
+
+Interests include DnD, Boardgames, 3D printing, VR, Food, Programming Projects, Computer Games, Scuba Diving, Skiing
+
+* [Personal Website](https://bubblebooy.github.io/max-garber-website)
+
 
 Learn more and contribute on [GitHub](https://github.com/poole).
-
+<!--
 ## Setup
 
 Some fun facts about the setup of this project include:
@@ -28,3 +36,4 @@ Some fun facts about the setup of this project include:
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
+-->
