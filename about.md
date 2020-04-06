@@ -20,9 +20,7 @@ While in Chicago I have been teaching myself Web Development, Unity and 3D Model
 Interests include DnD, Boardgames, 3D printing, VR, Food, Programming Projects, Computer Games, Scuba Diving, Skiing
 
 * [Personal Website](https://bubblebooy.github.io/max-garber-website)
-
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [GitHub](https://github.com/bubblebooy)
 <!--
 ## Setup
 
