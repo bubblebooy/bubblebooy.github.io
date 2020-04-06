@@ -8,6 +8,7 @@ title: About
   This is my blog for Machine Learning at Metis
 </p>
 -->
+This is my blog for Machine Learning at Metis
 
 Grew up in Santa Barbara, California
 
@@ -15,7 +16,6 @@ I went to University of California Santa Barbara where I got a Bachelor's degree
 
 I am in Chicago while my SO is getting a Material Science PHD at North Western
 
-While in Chicago I have been teaching myself Web Development, Unity and 3D Modeling
 
 Interests include DnD, Boardgames, 3D printing, VR, Food, Programming Projects, Computer Games, Scuba Diving, Skiing
 
